@@ -30,8 +30,11 @@ Assim como o Geodata.csv, esse dataset é usado para plotar um maa de calor muit
 # Autoria
 
 [Nalbert Gabriel](https://nalbertleal.github.io/)
+
 [Matheus Alves](https://matheusalves.com.br/)
+
 [Yuri Reinaldo](https://github.com/Yuri-wrlk)
+
 [Misael Batista](mailto://misael19972008@hotmail.com)
 
 # Fontes
