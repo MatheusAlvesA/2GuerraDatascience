@@ -29,13 +29,13 @@ Assim como o Geodata.csv, esse dataset é usado para plotar um maa de calor muit
 
 # Autoria
 
-[Nalbert Gabriel](https://nalbertleal.github.io/)
+[Nalbert Gabriel](https://nalbertleal.github.io/) - Análize do dataset e deselvolvimento do mapa das batalhas aéreas.
 
-[Matheus Alves](https://matheusalves.com.br/)
+[Matheus Alves](https://matheusalves.com.br/) - Criação do dataset das batalhas e suas descrições bem como os mapas derivados.
 
-[Yuri Reinaldo](https://github.com/Yuri-wrlk)
+[Yuri Reinaldo](https://github.com/Yuri-wrlk) - Pesquisa e fontes de dados. Código de limpeza dos dados dos datasets.
 
-[Misael Batista](mailto://misael19972008@hotmail.com)
+[Misael Batista](mailto://misael19972008@hotmail.com) - Auxiliou no desenvolvimento do mapa de calor das batalhas em geral e corrigiu bugs. 
 
 # Fontes
 
